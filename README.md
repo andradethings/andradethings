@@ -8,7 +8,7 @@ I'm <strong>Marcos</strong>, <strong>Customer Success Analist on Fusion S/A</str
 
 <div align="left">
 
-![Zé Roberto gritando uhul](https://media.tenor.com/MboHTtFREfMAAAAC/ze-roberto.gif)
+![Zé Roberto gritando uhul] (https://media.tenor.com/MboHTtFREfMAAAAC/ze-roberto.gif)
 
 <div align="center">
 
