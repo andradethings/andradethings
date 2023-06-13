@@ -8,9 +8,9 @@ I'm <strong>Marcos</strong>, <strong>Customer Success Analist on Fusion S/A</str
 
 <div align="left">
 
-![Zé Roberto gritando uhul] (https://media.tenor.com/MboHTtFREfMAAAAC/ze-roberto.gif)
+![Zé Roberto gritando uhul](https://media.tenor.com/MboHTtFREfMAAAAC/ze-roberto.gif)
 
-<div align="center">
+
 
   <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
