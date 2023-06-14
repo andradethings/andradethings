@@ -1,11 +1,12 @@
 # [Marcos Andrade] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-I'm <strong>Marcos</strong>, <strong>Customer Success Analist on Fusion S/A</strong> 👨🏻‍💻 
+Olá! Sou o <strong>Marcos</strong>, <strong>Analista de Customer Success na Fusion S/A</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Desenvolvimento Fullstack Iniciante no SENAC em parceria com o Porto Digital</strong> 
 - 💬 Pergunte-me sobre: <strong>Música, Dados, Games e Podcasts diversos</strong>
 - 📣 Nós podemos falar em: <strong>Português, Inglês</strong>
-
+- 👨🏻‍🎓 Sou formado em: Graduação em Gestão Comercial (FAFIRE) e Pós-Graduação em Gestão de Vendas e Inteligência Competitiva
+- 🔜 Pretendo em breve: Cursar MBA em Inovação (FGV)
 <div align="left">
 
 ![Zé Roberto gritando uhul](https://media.tenor.com/MboHTtFREfMAAAAC/ze-roberto.gif)
@@ -24,7 +25,7 @@ I'm <strong>Marcos</strong>, <strong>Customer Success Analist on Fusion S/A</str
   
   <div align= "center">
    <a href="https://fakeupdate.net/win10ue/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/pt/7/73/Trollface.png" width="23px"/> <font size="7"> Pressione F11 e Clique aqui</font> <br /></strong> <div </a>
+    <img src="https://upload.wikimedia.org/wikipedia/pt/7/73/Trollface.png" width="23px"/> <font size="7"> Pressione F11 e Clique aqui</font> <img src="https://upload.wikimedia.org/wikipedia/pt/7/73/Trollface.png" width="23px"/> </a>
 
   
   
