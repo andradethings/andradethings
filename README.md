@@ -21,10 +21,11 @@ I'm <strong>Marcos</strong>, <strong>Customer Success Analist on Fusion S/A</str
   <a href="https://www.instagram.com/andradethings__" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
-   <a href="https://fakeupdate.net/win10ue/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/pt/7/73/Trollface.png" width="25px" height="100%"/></a>
   
- 
+  <div align= "center">
+   <a href="https://fakeupdate.net/win10ue/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/pt/7/73/Trollface.png" width="23px"/> <font size="7"> Pressione F11 e Clique aqui</font> <br /></strong> <div </a>
+
   
   
 </div>
