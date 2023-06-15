@@ -24,7 +24,7 @@ Olá! Sou o <strong>Marcos</strong>, <strong>Analista de Customer Success na Fus
 
   
   <div align= "center">
-   <a href="https://fakeupdate.net/win10ue/" rel="_blank">
+   <a href="https://fakeupdate.net/win10ue/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/pt/7/73/Trollface.png" width="23px"/> <font size="7"> Pressione F11 e Clique aqui</font> <img src="https://upload.wikimedia.org/wikipedia/pt/7/73/Trollface.png" width="23px"/> </a>
 
   
